@@ -12,3 +12,5 @@ The titanic.csv dataset contains passenger information along with the informatio
 2 - Sex 
 
 3 - Age  
+
+[The results of the analysis can be found here](results/)
