@@ -13,4 +13,7 @@ The titanic.csv dataset contains passenger information along with the informatio
 
 3 - Age  
 
-[The results of the analysis can be found here](https://github.com/AR-langara/Titanic_Dataset_Practice/blob/result/CPSC_Assignment_Part_2.pdf)
+[Report](https://github.com/AR-langara/Titanic_Dataset_Practice/blob/result/CPSC_Assignment_Part_2.pdf)
+[Source Code](https://github.com/AR-langara/Titanic_Dataset_Practice/blob/Src/Assignment_3_Part_2.ipynb)
+[Source Data](https://github.com/AR-langara/Titanic_Dataset_Practice/blob/data/titanic.csv)
+
