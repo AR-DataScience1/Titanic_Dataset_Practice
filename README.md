@@ -1,2 +1,2 @@
-# Titanic_Dataset_Practice
-Descriptive Analysis practice on the Titanic dataset.
+# Titanic_Dataset_Practice / data
+The titanic.csv file is the source data file for this report.
