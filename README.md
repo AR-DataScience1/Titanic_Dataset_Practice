@@ -13,6 +13,14 @@ The titanic.csv dataset contains passenger information along with the informatio
 
 3 - Age  
 
+###Directories in the repository:
+
+result : contains the report 
+
+src : contains the source python code of the report
+
+data : contains the source dataset for the report
+
 ### Table of Contents:
 
 [Report](https://github.com/AR-langara/Titanic_Dataset_Practice/blob/result/CPSC_Assignment_Part_2.pdf)
