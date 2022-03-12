@@ -7,13 +7,13 @@ On April 15,1912, the RMS Titanic sank while on her first voyage after colliding
 
 The titanic.csv dataset contains passenger information along with the information that whether they survived or died in the accident. In this report I have analyzed 3 of these factors and tried to see their correlation with the survival rate. The 3 factors analyzed in this report are: 
 
-### Table of Contents:
-
 1 - Pclass 
 
 2 - Sex 
 
 3 - Age  
+
+### Table of Contents:
 
 [Report](https://github.com/AR-langara/Titanic_Dataset_Practice/blob/result/CPSC_Assignment_Part_2.pdf)
 
