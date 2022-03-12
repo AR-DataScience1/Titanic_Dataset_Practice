@@ -13,7 +13,7 @@ The titanic.csv dataset contains passenger information along with the informatio
 
 3 - Age  
 
-###Directories in the repository:
+### Directories in the repository:
 
 result : contains the report 
 
